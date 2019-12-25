@@ -1,0 +1,15 @@
+C:\Users\shforoozan\source\repos\CRM365PublishCustomizations\CRM365PublishCustomizations\bin\Debug\CRM365PublishCustomizations.exe.config
+C:\Users\shforoozan\source\repos\CRM365PublishCustomizations\CRM365PublishCustomizations\bin\Debug\CRM365PublishCustomizations.exe
+C:\Users\shforoozan\source\repos\CRM365PublishCustomizations\CRM365PublishCustomizations\bin\Debug\CRM365PublishCustomizations.pdb
+C:\Users\shforoozan\source\repos\CRM365PublishCustomizations\CRM365PublishCustomizations\bin\Debug\microsoft.crm.sdk.proxy.dll
+C:\Users\shforoozan\source\repos\CRM365PublishCustomizations\CRM365PublishCustomizations\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\shforoozan\source\repos\CRM365PublishCustomizations\CRM365PublishCustomizations\bin\Debug\Microsoft.IdentityModel.WindowsTokenService.dll
+C:\Users\shforoozan\source\repos\CRM365PublishCustomizations\CRM365PublishCustomizations\bin\Debug\microsoft.xrm.sdk.dll
+C:\Users\shforoozan\source\repos\CRM365PublishCustomizations\CRM365PublishCustomizations\bin\Debug\microsoft.xrm.sdk.workflow.dll
+C:\Users\shforoozan\source\repos\CRM365PublishCustomizations\CRM365PublishCustomizations\obj\Debug\CRM365PublishCustomizations.csprojAssemblyReference.cache
+C:\Users\shforoozan\source\repos\CRM365PublishCustomizations\CRM365PublishCustomizations\obj\Debug\CRM365PublishCustomizations.Properties.Resources.resources
+C:\Users\shforoozan\source\repos\CRM365PublishCustomizations\CRM365PublishCustomizations\obj\Debug\CRM365PublishCustomizations.csproj.GenerateResource.cache
+C:\Users\shforoozan\source\repos\CRM365PublishCustomizations\CRM365PublishCustomizations\obj\Debug\CRM365PublishCustomizations.csproj.CopyComplete
+C:\Users\shforoozan\source\repos\CRM365PublishCustomizations\CRM365PublishCustomizations\obj\Debug\CRM365PublishCustomizations.exe
+C:\Users\shforoozan\source\repos\CRM365PublishCustomizations\CRM365PublishCustomizations\obj\Debug\CRM365PublishCustomizations.pdb
+C:\Users\shforoozan\source\repos\CRM365PublishCustomizations\CRM365PublishCustomizations\obj\Debug\CRM365PublishCustomizations.FrmPublish.resources
